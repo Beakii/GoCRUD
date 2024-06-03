@@ -1,6 +1,5 @@
 ## CRUD Api with Go
 
-# To Do List
-- Add Post, Put, Delete end points
-- Add DB connections (PostgreSQL)
-- Dockerize the project
+# ~~To Do List~~ Complete
+- ~~Add Post, Put, Delete endpoints~~
+- ~~Add DB connections (PostgreSQL)~~
